@@ -1,5 +1,7 @@
 # Deep-learning
 
+# Deep-learning
+
 #ANN
 => Artificial neural networks  it is collection of layers consisto neurons and actiavtion functions which try to learn the pattern from data using foward and backwar propagation 
 =>So i have implemented the ANN usng tensor flow with a mnist data set 
@@ -26,4 +28,3 @@ what all i learnt
   =>why do we use CNN over ANN (not specificalaly in hands on )
   =>how to handle dataset for differn neural models ANN excepts (1d data) wheras CNN accepts (rgb format data )
   =>building model 
-
